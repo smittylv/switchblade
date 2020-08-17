@@ -25,12 +25,12 @@
     "keywords": [
         "discord"
     ],
-    "author": "Switchblade Team",
+    "author": "Fleet Team",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/SwitchbladeBot/switchblade/issues"
+        "url": "https://github.com/smittylv/switchblade/issues"
     },
-    "homepage": "https://github.com/SwitchbladeBot/switchblade#readme",
+    "homepage": "https://github.com/smittylv/switchblade#readme",
     "dependencies": {
         "@hapi/joi": "^16.1.7",
         "@lavacord/discord.js": "0.0.7",
